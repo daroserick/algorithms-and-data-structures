@@ -1,0 +1,13 @@
+.vscode/
+.idea/
+*.log
+*.tmp
+__pycache__/
+*.pyc
+*.o
+*.out
+*.exe
+*.class
+node_modules/
+venv/
+.env
