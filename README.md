@@ -33,5 +33,6 @@ You can browse the folders and files directly here on GitHub or clone the reposi
 ```bash
 git clone
 https://github.com/daroserick/logic_and_algorithms_exercises.git
+```
 
 ![status](https://img.shields.io/badge/Status-Active-brightgreen)
