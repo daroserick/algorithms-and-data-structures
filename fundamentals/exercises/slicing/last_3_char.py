@@ -1,1 +1,0 @@
-# Dado a string s = 'programador', pegue os 3 últimos caracteres
